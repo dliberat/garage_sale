@@ -12,7 +12,7 @@ export const Head = ({ title, description }: OwnProps) => (
     <title>{title || "Garage Sale"}</title>
     <meta
       name="description"
-      content={description || "Juanca's & Mariko's Garage Sale"}
+      content={description || "Garage Sale"}
     />
     <link rel="icon" href="/favicon.ico" />
   </NextHead>
