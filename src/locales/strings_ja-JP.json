@@ -51,12 +51,12 @@
     "goodStatus.given": "納品済",
     "goodCategory.appliances": " 電気製品",
     "goodCategory.bathroom": "バスルーム",
-    "goodCategory.games": "ゲーム",
-    "goodCategory.fashion": "ファッション",
+    "goodCategory.music": "ゲーム",
+    "goodCategory.baby": "ファッション",
     "goodCategory.furniture": "家具",
-    "goodCategory.home": "ホーム",
+    "goodCategory.storage": "ホーム",
     "goodCategory.kitchen": "キッチン",
-    "goodCategory.lighting": "照明",
+    "goodCategory.computer": "照明",
     "goodCategory.tools": "ツール",
     "goodCategory.other": "その他"
 }
