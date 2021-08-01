@@ -55,12 +55,12 @@
     "goodStatus.given": "Given",
     "goodCategory.appliances": "Appliances",
     "goodCategory.bathroom": "Bathroom",
-    "goodCategory.games": "Games",
-    "goodCategory.fashion": "Fashion",
+    "goodCategory.music": "Music",
+    "goodCategory.baby": "Baby",
     "goodCategory.furniture": "Furniture",
-    "goodCategory.home": "Home",
+    "goodCategory.storage": "Storage",
     "goodCategory.kitchen": "Kitchen",
-    "goodCategory.lighting": "Lighting",
+    "goodCategory.computer": "Computer",
     "goodCategory.other": "Other",
     "goodCategory.tools": "Tools"
 }
